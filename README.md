@@ -3,8 +3,8 @@
 ### About me
 
 - I’m currently working on **HIT Club - HaUI**.
-- I'm passionate about **Testing Software** and **Web Developer**.
-- My work is mostly about **Manual Testing**, **Font-end Web Devloper**.
+- I'm passionate about **Testing Software**  **espacially Automation Testing**.
+- My work is mostly about **Manual Testing, Automation Testing** **and Font-end Web Devloper**.
 - If you want to talk, the best way to contact me is usually through [Facebook](https://www.facebook.com/thuong13102003) or [Email](mailto:tthuong10102003@gmail.com).
 
 ### ⚡ GitHub Stats
