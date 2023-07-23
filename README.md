@@ -13,12 +13,12 @@
 <tr>
   <td width="60%">
     <a href="#">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ttthuong10&show_icons=true&theme=vue&include_all_commits=true&hide_border=true" >
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaylaaTran&show_icons=true&theme=vue&include_all_commits=true&hide_border=true" >
     </a>
   </td>
   <td width="40%">
     <a href="#"> 
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ttthuong10&theme=vue&layout=compact&hide_border=true" >
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaaTra&theme=vue&layout=compact&hide_border=true" >
     </a>
   </td>
 </tr>
