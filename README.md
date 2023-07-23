@@ -1,6 +1,9 @@
 <!-- [![Header](./img/header-readme.png "Header")](#) -->
 
-### Hi guys, Pleasure to see you! 
+### Hi guys, Pleasure to see you! <div style="text-align: center">
+<h2> <img src="http://petxinh.weebly.com/uploads/1/3/1/7/131737961/09ba6dbf97bdb9c01eac30f08896b959.gif" width="50" height="50"</img> 
+  </h2>
+</div>
 ### About me
 
 - I’m currently working on **HIT Club - HaUI**.
