@@ -18,7 +18,7 @@
   </td>
   <td width="40%">
     <a href="#"> 
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaaTra&theme=vue&layout=compact&hide_border=true" >
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaylaaTran&theme=vue&layout=compact&hide_border=true" >
     </a>
   </td>
 </tr>
